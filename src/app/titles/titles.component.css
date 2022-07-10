@@ -1,0 +1,70 @@
+.textTiles {
+    width: 438px;
+    height: 80px;
+    /* Body Text */
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 135%;
+    /* or 24px */
+    color: #000000;
+}
+
+.textblackTiles {
+    width: 153px;
+    height: 20px;
+    /* Button Text */
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 111.8%;
+    /* or 20px */
+    letter-spacing: 0.01em;
+    color: #000000;
+}
+
+h1 {
+    width: 604px;
+    height: 57px;
+    /* Header 1 */
+    font-family: 'Saol Standard';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 111.8%;
+    /* or 72px */
+    color: #000000;
+}
+
+h2 {
+    /* H2-This is HEADER */
+    width: 688px;
+    height: 49px;
+    /* Header 2 */
+    font-family: 'Ondo';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 111.8%;
+    /* or 45px */
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #000000;
+}
+
+h3 {
+    width: 604px;
+    height: 29px;
+    /* Header 3 */
+    font-family: 'DM Mono';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 111.8%;
+    /* or 27px */
+    letter-spacing: 0.115em;
+    text-transform: uppercase;
+    color: #000000;
+}

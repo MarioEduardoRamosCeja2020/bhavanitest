@@ -1,0 +1,43 @@
+.btnTitleButton {
+    position: absolute;
+    height: -50px;
+    background: #D6EFA4;
+    border-radius: 4px;
+    Width: 214px;
+    Height: 49px;
+    Top: 472px;
+    Left: 642px;
+    border-right: white 145px solid;
+}
+
+.link {
+    position: absolute;
+    width: 136px;
+    height: 18px;
+    font-family: 'Nunito Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 111.8%;
+    letter-spacing: 0.01em;
+    color: #000000;
+    text-decoration: none;
+    margin-left: 42%;
+    margin-top: 7%;
+}
+
+.textTitleButton {
+    position: absolute;
+    width: 688px;
+    height: 274px;
+    font-family: 'Ondo';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 111.8%;
+    text-align: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #000000;
+    margin-left: -158px;
+}
